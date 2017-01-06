@@ -10,3 +10,9 @@
 1. `pip --version`
 1. `pip install tensorflow`
 1. Done
+
+## Mac OS X
+1. Open `Terminal`
+1. `sudo easy_install pip`
+1. `sudo easy_install --upgrade six`
+1. `pip install tensorflow`
