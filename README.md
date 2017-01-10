@@ -18,3 +18,5 @@
 1. `sudo easy_install pip`
 1. `sudo easy_install --upgrade six`
 1. `pip install tensorflow`
+    1. If you got an error, go to https://www.quora.com/How-do-I-turn-off-the-rootless-in-OS-X-El-Capitan-10-11
+    1. `sudo pip install tensorflow --ignore-installed six`
